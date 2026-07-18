@@ -1,4 +1,5 @@
-{
+[
+  {
   "version": "1.35.2",
   "exportedAt": "2026-05-31T15:15:56.913Z",
   "config": {
@@ -7613,3 +7614,4 @@
     "enabledCatalogs": 369
   }
 }
+]
